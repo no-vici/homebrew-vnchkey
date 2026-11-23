@@ -1,6 +1,6 @@
 cask "vnchkey" do
   version "0.4.0"
-  sha256 "a55e635503576599316ad9bfd976b345593fa91ba159cd332762efbbbeef57f7"
+  sha256 "65af3508c74bbbf7abe5ad36f20639fe8752ee754d4b717ac9d49dfada0171da"
 
   url "https://github.com/no-vici/fcitx5-vnchkey/releases/download/v#{version}/vnchKey-#{version}.dmg"
   name "vnchKey"
